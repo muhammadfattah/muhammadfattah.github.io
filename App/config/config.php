@@ -1,5 +1,5 @@
 <?php 
-$base_url = 'http://localhost/portopolio';
+$base_url = 'https://muhammadfattah.github.io/';
 
 function base_url($url = ''){
     global $base_url;
